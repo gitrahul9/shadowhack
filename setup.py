@@ -9,7 +9,7 @@ setup(name='shadowhack',
       description='The ShadowHack',
       long_description=readme(),
       classifiers=[
-        'Development Status :: Beta',
+        'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2.7',
       ],
